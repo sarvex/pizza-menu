@@ -1,0 +1,20 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#f6a193",
+    "statusBar.background": "#f27864",
+    "statusBar.border": "#f27864",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#ee4f35",
+    "statusBarItem.remoteBackground": "#f27864",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#f6a193"
+  },
+  "peacock.color": "#f27864",
+  "python.analysis.extraPaths": [
+    "c:\\Users\\Yoga\\.vscode\\extensions\\continue.continue-0.0.412-win32-x64"
+  ],
+  "python.autoComplete.extraPaths": [
+    "c:\\Users\\Yoga\\.vscode\\extensions\\continue.continue-0.0.412-win32-x64"
+  ],
+  "marquee.widgets.npm-stats.packageNames": ["pizza-menu"]
+}
